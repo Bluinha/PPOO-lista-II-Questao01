@@ -1,4 +1,4 @@
-# README – Lista Avaliativa II (Padrões de Projeto)
+# Lista Avaliativa II (Padrões de Projeto)
 
 ## Questão 1 – Arquivo de Configuração (Padrão Singleton)
 
